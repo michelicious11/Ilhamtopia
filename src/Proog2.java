@@ -23,6 +23,8 @@ public class Proog2 extends javax.swing.JFrame {
     public Proog2() {
         initComponents();
     }
+    
+    System.out.println("Ta mère");
 
     /**
      * This method is called from within the constructor to initialize the form.
